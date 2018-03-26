@@ -13,7 +13,7 @@ public class User implements Serializable{
     private Long userId;
     //名称
     private String userName;
-    //密码
+    //密码1111222
     private String password;
     private String phone;
 }
